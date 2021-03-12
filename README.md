@@ -1,5 +1,3 @@
 [![Banner of lemokami](header.svg)](https://github.com/lemokami/)
 
-<p>
-Hey, I'm Jesswin W Varghese. I am currently pursuing an undergraduate degree in Computer Science and Engineering at Kerala. I am a Frontend JavaScript developer who focuses on React and its framework Next.js.
-</p>
+Hi, I'm Jesswin W Varghese. I am Developer/Student who loves to build stuff. I'm currently focusing in being a fully fledged Frontend Developer. I build stuff mainly using React & Next.js.
