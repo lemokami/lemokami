@@ -1,1 +1,1 @@
-[![Self introducing banner](./main-banner.svg)](https://twitter.com/lemokami/)
+[![lemokami's banner](./banner.svg)](https://twitter.com/lemokami/)
