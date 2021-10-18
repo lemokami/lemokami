@@ -1,2 +1,1 @@
-# 👋🏻 Hi There
-![](https://www.codewars.com/users/lemokami/badges/small)
+<img src="https://c.tenor.com/dXeGgnB4u_sAAAAC/dragon-woman-anime.gif" width="200">
