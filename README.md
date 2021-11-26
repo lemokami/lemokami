@@ -1,1 +1,3 @@
-<img src="https://c.tenor.com/dXeGgnB4u_sAAAAC/dragon-woman-anime.gif" width="200">
+<img src="https://media.giphy.com/media/MZocLC5dJprPTcrm65/giphy.gif" width="200">
+
+#### 👋🏻  Welcome to my profile
