@@ -1,4 +1,3 @@
-![GitHub metrics](https://metrics.lecoq.io/lemokami) 
 # About Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40lemokami-239a3b.svg)](https://github.com/lemokami)
@@ -7,8 +6,9 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-Hi, I am [@lemokami](https://github.com/lemokami). 
-<!-- 👋 I am the [CEO](https://github.blog/2021-11-03-building-the-next-phase-of-github-together/) of [@GitHub](https://github.com) and love building products that make developers' lives easier. We’re always open to hearing your feedback so drop us a note (or your entire GitHub wishlist) in [Discussions](https://github.com/github/feedback/discussions). I grew up in 🇩🇪, live in the Pacific Northwest of the 🇺🇸, and you may know me as the co-founder of HockeyApp. I’m also a LEGO enthusiast and love turning that GitHub contribution graph ⬇️ more green 🟩 in my spare time. The below list are things I directly worked on in the past years.
+![GitHub metrics](https://metrics.lecoq.io/lemokami) 
+
+<!-- Hi, I am [@lemokami](https://github.com/lemokami). 👋 I am the [CEO](https://github.blog/2021-11-03-building-the-next-phase-of-github-together/) of [@GitHub](https://github.com) and love building products that make developers' lives easier. We’re always open to hearing your feedback so drop us a note (or your entire GitHub wishlist) in [Discussions](https://github.com/github/feedback/discussions). I grew up in 🇩🇪, live in the Pacific Northwest of the 🇺🇸, and you may know me as the co-founder of HockeyApp. I’m also a LEGO enthusiast and love turning that GitHub contribution graph ⬇️ more green 🟩 in my spare time. The below list are things I directly worked on in the past years.
  -->
 <!-- ## Recent Projects
 
