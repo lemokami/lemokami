@@ -8,8 +8,8 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/lemokami) 
 
-<!-- Hi, I am [@lemokami](https://github.com/lemokami). 👋 I am the [CEO](https://github.blog/2021-11-03-building-the-next-phase-of-github-together/) of [@GitHub](https://github.com) and love building products that make developers' lives easier. We’re always open to hearing your feedback so drop us a note (or your entire GitHub wishlist) in [Discussions](https://github.com/github/feedback/discussions). I grew up in 🇩🇪, live in the Pacific Northwest of the 🇺🇸, and you may know me as the co-founder of HockeyApp. I’m also a LEGO enthusiast and love turning that GitHub contribution graph ⬇️ more green 🟩 in my spare time. The below list are things I directly worked on in the past years.
- -->
+👋🏻 Hi, I am [@lemokami](https://github.com/lemokami), a Frontend Web Developer residing in 🇮🇳 . I use my spare time to make that 👇🏻 contribution graph 🟢 (green)
+
 <!-- ## Recent Projects
 
 * [GitHub Archive Program: Making the archives beautiful](https://github.blog/2020-11-19-github-archive-program-making-the-archives-beautiful/)
