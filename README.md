@@ -6,5 +6,8 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
+> Currently taking a break  
+
+
 👋🏻 Hi, I am [@lemokami](https://github.com/lemokami), a Frontend Web Developer residing in 🇮🇳 . I use my spare time to make that 👇🏻 contribution graph 🟢 (green)
 
