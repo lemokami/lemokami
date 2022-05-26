@@ -1,5 +1,6 @@
 # About Me
-![github cover](https://user-images.githubusercontent.com/44605554/170289001-48b84f31-f737-4a2e-aad1-9a012614e5ef.png)
+![github cover](https://user-images.githubusercontent.com/44605554/170493052-f06db193-41d6-4be1-a6a8-30638aa54409.png)
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40lemokami-239a3b.svg)](https://github.com/lemokami)
 [![Twitter](https://img.shields.io/badge/Twitter-%40lemokami-58a1f2.svg)](https://twitter.com/lemokami)
