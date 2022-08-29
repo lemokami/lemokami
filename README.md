@@ -1,7 +1,7 @@
 
- <b> Show them with what you can do, not with what you have. </b>
-![c86f511cc4de1d0d3f1dd2b372000968](https://user-images.githubusercontent.com/44605554/171388943-8b616059-b8f4-4124-977b-f5337f0976d9.jpeg) 
+<!-- <b> Show them with what you can do, not with what you have. </b> -->
 <!-- ![banner](https://user-images.githubusercontent.com/44605554/173247196-9fc09d3e-3037-4971-a6d3-b5c96a8ded5b.png) -->
+![image](https://user-images.githubusercontent.com/44605554/187134227-e7333505-f2ab-4180-9c48-ca4dc546dba1.png)
 
 <!-- 
 [![GitHub](https://img.shields.io/badge/GitHub-%40lemokami-239a3b.svg)](https://github.com/lemokami)
